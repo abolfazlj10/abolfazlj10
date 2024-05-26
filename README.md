@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/abolfazl_j10" target="blank"><img src="https://img.shields.io/twitter/follow/abolfazl_j10?logo=twitter&style=for-the-badge" alt="abolfazl_j10" /></a> </p>
 
-- 🔭 I’m always working [ToolBo](https://ToolBo.ir)
 
 - 🌱 I’m currently learning **react**
 
