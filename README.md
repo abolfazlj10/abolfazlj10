@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **react**
 
-- 💬 Ask me about **vue**
-
 - 📫 How to reach me **abolfazljamshidi101010@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
